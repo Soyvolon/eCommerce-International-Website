@@ -11,11 +11,11 @@
 - Time Zone: UTC+09:00  
 ### [Japan Climate](http://www.statravel.com/japan-climate.htm)  
 **Winter**  
-- _December to February_, is quite dry and sunny along the Pacific coast and the temperatures rarely drop below 0°C. The temperatures drop as you move north, with the Central and Northern regions experiencing snowfall. Southern Japan is relatively temperate and experiences a mild winter.  
+- _December to February_, is quite dry and sunny along the Pacific coast and the temperatures rarely drop below 0°C. The temperatures drop as you move north, with the Central and Northern regions experiencing snowfall. Southern Japan is relatively temperate and experiences a mild winter.
 **Spring**  
-- _March to May_.  Temperatures are warm but not too hot, plus there isn’t too much rain.  The famous cherry blossoms are out during this time and there are plenty of festivals to enjoy.  
+- _March to May_.  Temperatures are warm but not too hot, plus there isn’t too much rain.  The famous cherry blossoms are out during this time and there are plenty of festivals to enjoy.
 **Summer**
-- _June to August_. Starts in June and the country experiences a three to four-week rainy season during which the farmers plant their rice.  It is hot and humid during this time and temperatures are often in the high 30’s.  
+- _June to August_. Starts in June and the country experiences a three to four-week rainy season during which the farmers plant their rice.  It is hot and humid during this time and temperatures are often in the high 30’s.
 **Fall**  
 - _September to November_ and is characterised by light breezes and cooler temperatures of around 8-10oC. It’s during autumn that many exhibitions, music concerts and sports tournaments are held in Japan.
 ## The best time of year to visit and why
