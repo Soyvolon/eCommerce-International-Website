@@ -1,6 +1,7 @@
 # Format
 ### [source](http://link.notasite)  
 - Data for source
+---
 # Research Data
 ## Location
 - Kyoto, Japan  
@@ -84,11 +85,61 @@
 | Do you have an English menu? | 	英語のメ二ューはありますか (eigo no menyu wa arimasu ka?) |
 | My hovercraft is full of eels | 私のホバークラフトは鰻でいっぱいです (Watashi no hobākurafuto wa unagi de ippai desu.) |
 ## The best time of year to visit and why
--
+### [Inside Kyoto](https://www.insidekyoto.com/)
+- The best times to visit Kyoto are October/November (fall) and March/April/May (spring).
+- You can visit Kyoto at any time of year because the weather is temperate.
+- Summer (June/July/August) in Kyoto is hot and humid.
+- Winter (December/January/Febuary) in Kyoto is cold.
+- The rainy season goes from mid-June to late July, but it does NOT rain every day and you can travel.
+
+**October / November Events**
+- 22 October: Jidai Matsuri (Festival of the Ages): A parade of people dressed in period costumes marches from the Kyoto Gosho (Kyoto Imperial Palace) to Heian-jingu Shrine.
+- 22 October: Kurama-no-Himatsuri (Kurama Fire Festival): In the village of Kurama, a short train ride north of Kyoto, young men dressed in loincloths carry huge flaming torches through the streets. The festival starts at dusk and climaxes around 10:00pm.
+- Autumn Colors – Fall Foliage Season: The stunning autumn colors in Kyoto continue throughout the month. See our Kyoto Autumn Colors guide for the more info  
+
+**March / April / May**
+- Mid-March: Plum blossom viewing: Top spots to view the plums include Kitano-Tenmangu Shrine and the Kyoto Gosho (Imperial Palace Park).
+- Cherry Blossom season begins from mid-March onwards.
+- Early April: Hanami (cherry blossom viewing): Top spots to see the cherries include Maruyama-koen Park, the north end of the Kyoto Gosho (Imperial Palace Park), the banks of the Kamo-gawa River, Kyoto Botanical Gardens (Kyoto Shokubutsu-en), and Gion’s Shimbashi district in the evening. See our comprehensive guide to cherry blossom season in Kyoto.
+- First week of May: Golden Week holiday: Most Japanese workers are on holiday. Many sightseeing spots are crowded and hotels are expensive at this time.
+- 3 May: Yabusame (horseback archery) at Shimogamo-jinja Shrine: From 1pm to 3:30pm, a horseback archery competition is held in the tree-lined arcade south of the shrine’s main hall. Don’t miss it!
+- 15 May: Aoi Matsuri: One of Kyoto’s biggest festivals, this festival involves a procession from the Kyoto Gosho (Kyoto Imperial Palace) to Shimogamo-jinja Shrine via Kamigamo-jinja Shrine. The procession leaves the palace at 10:00am, arrives at Shimogamo-jinja at 2pm and at Kamigamo-jinja at 3:30pm.
 ## Local inns and hotels - minimum of four with information, pricing, and image(s)
--
+### [Inside Kyoto](https://www.insidekyoto.com/)
+**Best Luxury Hotel In Kyoto**  
+Hyatt Regency Kyoto: The Hyatt brings it all together: beautiful rooms, attentive English-speaking staff, great onsite restaurants, good facilities and a fine location in the Southern Higashiyama sightseeing district.
+
+**Best Mid-Range Hotel In Kyoto**  
+Dormy Inn Premium Kyoto Ekimae-Kyoto: Located just across the street from Kyoto Station, the Dormy Inn is a mid-range hotel that just tries harder. Topped off with a large “hot spring bath,” this is a great place to stay in Kyoto.
+
+**Best Budget Hotel In Kyoto**  
+Toyoko Inn Kyoto Gojo-Karasuma: Savvy budget travelers know that the Toyoko Inn chain provides the comforts of a hotel at guesthouse prices, and the Kyoto Gojo-Karasuma branch is no exception.
+
+**Best Guesthouse In Kyoto**  
+Tour Club: The Tour Club was one of the first foreigner-friendly guesthouses in Kyoto and it remains the best, due to careful management and attentive staff.
+
+**Best Ryokan In Kyoto**  
+Tawaraya: Those who have stayed here know that it’s worth a trip to Japan just to sample the delights of this superb ryokan. It’s one of the finest accommodations in the world.
+
+**Best Vacation Rental In Kyoto**  
+Gion House: The two units in the Gion House are stylish retreats right on the edge of all the action in Gion. They represent the best of Japanese and Western design.
 ## The best way to get around the city/ country to sight see (transportation options for tourists)
--
+### [Inside Kyoto](https://www.insidekyoto.com/)
+1. Trains
+2. Subways
+3. Busses
+4. Taxis
+5. Cycling
+6. Walking
+---
+**Things of Note**  
+- Kyoto is a compact city with a well-developed transport network. It’s very easy to get around.
+- The subways and trains are the most convenient way to get around the city.
+- Buses are less convenient, but cover almost the whole city.
+- Taxis are plentiful and reasonably cheap. They’re sometimes cheaper than buses for groups of three or four on short trips.
+- Bicycles are a great way to get around Kyoto. The city is mostly flat and the drivers are sane. If you enjoy cycling, I strongly recommend renting a bicycle to explore the city.
+- Kyoto is a great city to explore on foot. Downtown area, Arashiyama and Higashiyama are all great for walking.
+- There are several special tickets that will save you tons of money if you plan on riding the buses, subways and trains a lot.
 ## At least top four places of interest to visit– with detailed description and image(s)IMPORTANT NOTE:  These are specific places of interest to visit not a city! Historical landmarks, museums, ruins, castles, etc.  Information and images are for this specific place to visit.  Think what a tourist would not want to miss seeing when they visit your major city or country.
 -
 ## Historical mini lesson – Four paragraphs or bulleted list with solid information and  images
