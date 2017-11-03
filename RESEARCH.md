@@ -108,26 +108,32 @@
 ### [Inside Kyoto](https://www.insidekyoto.com/)
 **Best Luxury Hotel In Kyoto**  
 Hyatt Regency Kyoto: The Hyatt brings it all together: beautiful rooms, attentive English-speaking staff, great onsite restaurants, good facilities and a fine location in the Southern Higashiyama sightseeing district.  
+_Prices from $500 upwards_  
 ![Hyatt Regency Kyoto Image](research/hyatt.jpg)
 
 **Best Mid-Range Hotel In Kyoto**  
 Dormy Inn Premium Kyoto Ekimae-Kyoto: Located just across the street from Kyoto Station, the Dormy Inn is a mid-range hotel that just tries harder. Topped off with a large “hot spring bath,” this is a great place to stay in Kyoto.  
+_Prices from $200 upwards_  
 ![Dormy Inn Premium Kyoto Ekimae-Kyoto image](research/dormy.jpg)
 
 **Best Budget Hotel In Kyoto**  
 Toyoko Inn Kyoto Gojo-Karasuma: Savvy budget travelers know that the Toyoko Inn chain provides the comforts of a hotel at guesthouse prices, and the Kyoto Gojo-Karasuma branch is no exception.  
+_Prices from $55 upwards_  
 ![Toyoko Inn Kyoto Gojo-Karasuma image](research/gojo.jpg)
 
 **Best Guesthouse In Kyoto**  
 Tour Club: The Tour Club was one of the first foreigner-friendly guesthouses in Kyoto and it remains the best, due to careful management and attentive staff.  
+_Prices from $22 upwards_  
 ![Tour Club image](research/tourclub.jpg)
 
 **Best Ryokan In Kyoto**  
 Tawaraya: Those who have stayed here know that it’s worth a trip to Japan just to sample the delights of this superb ryokan. It’s one of the finest accommodations in the world.  
+_Prices from $430 upwards_  
 ![Tawaraya image](research/tawaraya2.jpg)
 
 **Best Vacation Rental In Kyoto**  
 Gion House: The two units in the Gion House are stylish retreats right on the edge of all the action in Gion. They represent the best of Japanese and Western design.  
+_Prices from $290 upwards_  
 ![Gion House image](research/gion.jpg)
 ## The best way to get around the city/ country to sight see (transportation options for tourists)
 ### [Inside Kyoto](https://www.insidekyoto.com/)
