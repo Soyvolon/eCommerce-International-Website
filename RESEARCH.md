@@ -124,7 +124,7 @@ Tour Club: The Tour Club was one of the first foreigner-friendly guesthouses in 
 
 **Best Ryokan In Kyoto**  
 Tawaraya: Those who have stayed here know that it’s worth a trip to Japan just to sample the delights of this superb ryokan. It’s one of the finest accommodations in the world.  
-![Tawaraya image](research/tawaraya.jpg)
+![Tawaraya image](research/tawaraya2.jpg)
 
 **Best Vacation Rental In Kyoto**  
 Gion House: The two units in the Gion House are stylish retreats right on the edge of all the action in Gion. They represent the best of Japanese and Western design.  
