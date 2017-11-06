@@ -157,7 +157,14 @@ _Prices from $290 upwards_
 ## Historical mini lesson – Four paragraphs or bulleted list with solid information and  images
 -
 ## Cultural info and differences(min of 5) What would be rude? Unacceptable? Expected? Gender?
--
+### [Oyster.com](https://www.oyster.com/articles/58351-24-things-you-should-know-before-traveling-to-japan/)
+1- Keeping your shoes on in certain places is highly offensive.  
+Leaving your shoes on when entering someone's house is a major sign of disrespect. Like many other parts of Asia, removing your shoes when entering a home is an absolute must. This is also the norm for several restaurants, so be sure to check around if you should slip your shoes off or not. Oh, and you're going to have to take off your shoes before entering most dressing rooms, too.  
+2- You don't need to tip.  
+Speaking of restaurant etiquette, you don't need to tip in Japan. In fact, if you do, there's a big chance your server will run after you to give you the money you accidentally left behind. Waiters get paid a living wage in Japan, so don't feel guilty. This rule is also true for hotel staff and other service staff you'll encounter during your trip.  
+3- Americans tend to be more direct and blunt, whereas Japanese people are more subtle. Being too direct in Japan can be considered rude. This can be seen in body language, too. People in the U.S. are taught to look directly in someone's eyes when speaking or listening to show they are actively participating in the conversation. In Japan, extended eye contact can be uncomfortable between people who aren't close, and eyes are often adverted. Japanese people also tend to be more reserved than Americans, and share less personal or sensitive information, often even with close friends.  
+4- Japanese people tend to be more formal. Though well known that many Asian countries bow instead of shaking hands, Japanese people bow in more situations than just greetings. Bowing can be done in apologizing and thanking as well. Though in business people might bow deeply to a 45 degree angle, most bows are a casual bob of the head and slight incline of the back. However, Japanese people are well aware that foreigners usually shake hands and might readily offer their hands in greeting instead.  
+5- In Japan, social hierarchy is important. The junior/senior relationship is very important in Japan. A company employee who is younger and probably hasn't worked at the company as long as his older coworker will be a "junior" to the "senior." It is the same for students, especially in school clubs. In theory, the senior is a mentor for the junior, and it is the junior's duty to help out the senior and the other members of the group. These roles aren't non-existent in America, but roles are often based on personal accomplishments, and they aren't always respected as a rule, either.  
 ## Information on the type and exchange of local currency. Do they deal with credit cards?
 - Japan uses the Yen ( 1 Japanese Yen equals 0.0088 US Dollar )
 ### [Japan Monthly Web Magazine](http://japan-magazine.jnto.go.jp/en/special_credit.html)
