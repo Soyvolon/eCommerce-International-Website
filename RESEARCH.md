@@ -175,4 +175,4 @@ Speaking of restaurant etiquette, you don't need to tip in Japan. In fact, if yo
 ## A frequently asked questions page with important information travelers would want.  Minimum of five questions.  Will be a separate page.
 -
 ## A quality map of the destination – image.  Be sure it is not blurry!
--
+```html <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d52284.80623673557!2d135.73300988569912!3d35.01170157045008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m5!1s0x6001a8d6cd3cc3f1%3A0xc0961d366bbb1d3d!2sKyoto%2C+Kyoto+Prefecture%2C+Japan!3m2!1d35.0116363!2d135.7680294!4m0!5e0!3m2!1sen!2sus!4v1509977482305" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> ```
