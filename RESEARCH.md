@@ -159,7 +159,9 @@ _Prices from $290 upwards_
 ## Cultural info and differences(min of 5) What would be rude? Unacceptable? Expected? Gender?
 -
 ## Information on the type and exchange of local currency. Do they deal with credit cards?
--
+- Japan uses the Yen ( 1 Japanese Yen equals 0.0088 US Dollar )
+### [Japan Monthly Web Magazine](http://japan-magazine.jnto.go.jp/en/special_credit.html)
+- “Is Japan a backward country in terms of credit card usage?” The answer is “NO”. Since most people in Japan used to pay cash, there were not many shops that accepted credit cards in the past. Today many places including shops and hotels take credit cards. With the weaker yen, easing of visa requirements, the upcoming 2020 Tokyo Olympic and Paralympic Games and the increase of overseas tourists visiting Japan, there will be even more places that will start accepting credit cards. Let’s take a look at the credit card situation in Japan using a day of sightseeing in Tokyo as an example.
 ## Information about the local cuisine with descriptions of dishes and images (min. 4 dishes) Note: Not restaurants
 -
 ## A frequently asked questions page with important information travelers would want.  Minimum of five questions.  Will be a separate page.
