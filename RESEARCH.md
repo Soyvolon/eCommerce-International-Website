@@ -153,7 +153,14 @@ _Prices from $290 upwards_
 - Kyoto is a great city to explore on foot. Downtown area, Arashiyama and Higashiyama are all great for walking.
 - There are several special tickets that will save you tons of money if you plan on riding the buses, subways and trains a lot.
 ## At least top four places of interest to visit– with detailed description and image(s)IMPORTANT NOTE:  These are specific places of interest to visit not a city! Historical landmarks, museums, ruins, castles, etc.  Information and images are for this specific place to visit.  Think what a tourist would not want to miss seeing when they visit your major city or country.
--
+### [Tenryu-ji Temple – Arashiyama](https://www.insidekyoto.com/tenryu-ji-temple-arashiyama)
+- You can’t help but notice that this is one of the best examples of shakkei (borrowed scenery) in Japan: the steep mountains of Arashiyama form are perfectly incorporated into the design of the garden.
+### [Arashiyama Bamboo Grove](https://www.insidekyoto.com/arashiyama-bamboo-grove)
+- The Arashiyama Bamboo Grove is one of Kyoto’s top sights and for good reason: standing amid these soaring stalks of bamboo is like being in another world.
+### [Ninen-zaka and Sannen-zaka Preserved Districts](https://www.insidekyoto.com/ninen-zaka-and-sannen-zaka-preserved-districts)
+- Two of Kyoto’s most attractive streets are Sannen-zaka and Ninen-zaka, a pair of gently sloping lanes that lead down from Kiyomizu-dera Temple toward Nene-no-Michi Lane
+### [Nishiki Market – Downtown Kyoto](https://www.insidekyoto.com/nishiki-market-downtown-kyoto)
+- Shimbashi is single most attractive street in all of Asia, particularly in the evening. When the cherry blossoms are in bloom here, it’s almost too beautiful for words.
 ## Historical mini lesson – Four paragraphs or bulleted list with solid information and  images
 -
 ## Cultural info and differences(min of 5) What would be rude? Unacceptable? Expected? Gender?
@@ -175,4 +182,5 @@ Speaking of restaurant etiquette, you don't need to tip in Japan. In fact, if yo
 ## A frequently asked questions page with important information travelers would want.  Minimum of five questions.  Will be a separate page.
 -
 ## A quality map of the destination – image.  Be sure it is not blurry!
-```html <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d52284.80623673557!2d135.73300988569912!3d35.01170157045008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m5!1s0x6001a8d6cd3cc3f1%3A0xc0961d366bbb1d3d!2sKyoto%2C+Kyoto+Prefecture%2C+Japan!3m2!1d35.0116363!2d135.7680294!4m0!5e0!3m2!1sen!2sus!4v1509977482305" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> ```
+```<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d52284.80623673557!2d135.73300988569912!3d35.01170157045008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m5!1s0x6001a8d6cd3cc3f1%3A0xc0961d366bbb1d3d!2sKyoto%2C+Kyoto+Prefecture%2C+Japan!3m2!1d35.0116363!2d135.7680294!4m0!5e0!3m2!1sen!2sus!4v1509977482305" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> ```
+## Gallery
