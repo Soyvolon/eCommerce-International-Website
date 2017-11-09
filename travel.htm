@@ -1,0 +1,81 @@
+<html>
+	<head>
+		<!--
+			All class tags that start with 'w3' are from the w3.css style sheet
+		-->
+	
+		<title></title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link href="w3.css" rel="stylesheet" type="text/css" />
+		<link href="main.css" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		
+		<style>
+			@import url('https://fonts.googleapis.com/css?family=Courgette');
+			@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+		</style>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script type="text/javascript">
+			// Scroll to specific values
+			function scrollto(point) {
+				// scrollTo is the same
+				window.scroll({
+				  top: point, 
+				  left: 0, 
+				  behavior: 'smooth' 
+				});
+			}
+			function scrollby(distance) {
+				// Scroll certain amounts from current position 
+				window.scrollBy({ 
+				  top: distance, // could be negative value
+				  left: 0, 
+				  behavior: 'smooth' 
+				});
+			}
+			function indoc(id) {
+				// Scroll to a certain element
+				document.querySelector(id).scrollIntoView({ 
+				  block: "start",
+				  inline: "nearest",
+				  behavior: 'smooth'
+				});
+			}
+			//Navagation bar functions
+			function openNav() {
+			    document.getElementById("sideNav").style.width = "15%";
+			    document.getElementById("galmenu").style.opacity = 0;
+			}
+
+			function closeNav() {
+			    document.getElementById("sideNav").style.width = "0%";
+			    document.getElementById("galmenu").style.opacity = 1;
+			}
+			
+			function openDoc(doc) {
+				window.location.href = doc;
+			}
+		</script>
+	</head>
+	<body style="background: black;">
+			<div class="headerbar">
+				<table class="headertable">
+					<tr>
+						<td onclick="openDoc('index.htm')">Home</td>
+						<td onclick="openDoc('facts.htm')">Info</td>
+						<td onclick="openDoc('locations.htm')">Locations</td>
+						<td onclick="openDoc('culture.htm')">Culture</td>
+						<td onclick="openDoc('travel.htm')" id="onpage">Travel</td>
+						<td onclick="openDoc('gallery.htm')">Gallery</td>
+						<td onclick="openDoc('faq.htm')">FAQ</td>
+						<td onclick="openDoc('research.htm')">References</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,251 @@
+/* Fonts */
+	@import url('https://fonts.googleapis.com/css?family=Courgette');
+	@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/*-|-*/
+
+
+body {
+	
+}
+
+#indexhead {
+	height:95%;
+	background-color: black;
+}
+#body {
+	margin-top: 25px;
+}
+a {
+	font-family: 'Courgette';
+	text-decoration: none;
+}
+#bg-white {
+	background-color: white;
+	border-radius: 50px;
+	border: 4px solid pink;
+	padding: 5px;
+}
+/* Header info */
+	.headerbar {
+		position: sticky;
+		width: 100%;
+		height: 3em;
+		margin: auto;
+		text-align: center;
+		font-family: Courgette;
+		background-color: black;
+		color: white;
+	}
+	.headertable {
+		margin: auto;
+		width: 100%;
+		text-align: center;
+		color: white;
+	}
+	.headertable a {
+		text-decoration: none;
+	}
+	.headertable td {
+		border: 2px solid white;
+		cursor: pointer;
+		padding: 5px;
+		width: 12%;
+		font-variant: small-caps;
+		letter-spacing: 0.1em;
+	}
+	.headertable td:hover {
+		background-color: pink;
+		color: black;
+	}
+	#onpage {
+		background-color: grey;
+	}
+/*-|-*/
+/* Section Info */
+	.sectionbox {
+		height: auto;
+		width: 100%;
+		text-align: center;
+		color: white;
+		font-family: 'Open Sans', sans-serif;
+	}
+	.sectionhead {
+		height: 3em;;
+		font-family: Courgette;
+	}
+	.sectionhead h2 {
+		border: solid white;
+		border-width: 2px 0px 2px 0px;
+		margin: 4px;
+		color: pink;
+	}
+	.sectioncontent h3 {
+		border: solid white;
+		border-width: 0px 0px 2px 0px;
+		margin: 2px;
+		text-align: left;
+		font-weight: bold;
+		font-family: 'Courgette';
+		font-variant: small-caps;
+		letter-spacing: 0.1em;
+	}
+	.sectioncontent h4 {
+		font-family: 'Open Sans', sans-serif;
+	}
+	.sectioncontent li {
+		border-bottom: 1px solid pink;
+		width: 25%;
+		margin-left: 35%
+	}
+	.sectioncontent a:hover {
+		color: pink;
+		text-decoration:none;
+	}
+	.sectioncontent {
+		background-color: rgb(40,40,40);
+		margin: 10px auto 10px auto;
+		width: 70%;
+		height: auto;
+		border: 5px inset white;
+		padding: 5px;
+		font-family: 'Open Sans', sans-serif;
+	}
+	.navbtn {
+		color: black;
+		border: black;
+		background-color: white;
+		cursor: pointer;
+		text-decoration: none;
+		font-variant: small-caps;
+		text-align: center;
+		margin: 10px;
+		padding: 7px;
+		float: right;
+	}
+	.navbtn:hover {
+		background-color: pink;
+	}
+/*-|-*/
+/* Facts Section */
+	#altbody {
+		font-family: 'Open Sans', sans-serif;
+		color: white;
+		padding: 20px;
+	}
+	#altbody h1, #bannerhead {
+		padding: 30px;
+		border: 4px solid pink;
+		border-radius: 20px;
+		background: white url(design/banner.jpg);
+		color: black;
+		font-family: Courgette
+	}
+	#altbody h2 {
+		padding: 20px;
+		margin-left: 100px;
+		border: 3px solid white;
+		border-radius: 20px;
+		background-color: pink;
+		color: black;
+		font-family: Courgette;
+	}
+	#altbody h3 {
+		padding: 10px;
+		margin-left: 150px;
+		border: 2px solid pink;
+		border-radius: 20px;
+		background-color: grey;
+		color: white;
+	}
+	#altbody li {
+		margin-left: 200px;
+		color: white;
+	}
+	#altbody table {
+		padding: 10px;
+		margin-left: 200px;
+		border: 2px solid white;
+		border-radius: 20px;
+		width: 80%
+	}
+	#altbody thead th {
+		background-color: pink;
+		color: black;
+		border: 2px solid white;
+		border-bottom: 2px solid black;
+		padding: 5px;
+		width: 50%;
+		text-align: center;
+		font-size: 1.5em;
+		font-family: Courgette;
+	}
+	#altbody td {
+		color: black;
+		background-color: white;
+		border: 1px solid black;
+		padding: 1px;
+		text-align: left;
+		font-family: 'Open Sans', sans-serif;
+	}
+	#altbody p {
+		padding: 10px;
+		margin: 10px 50px 10px 150px;
+	}
+	#jpcont {
+		background-color: pink!important;
+		color: black;
+	}
+/*-|-*/
+/* Loactions */
+	#locationsbody {
+		font-family: 'Open Sans', sans-serif;
+		color: white;
+		padding: 20px;
+	}
+	
+/*-|-*/
+/* Navigation Menu */
+	.sidenav {
+		height: 100%;
+		width: 0;
+		position: fixed;
+		z-index: 1;
+		top: 0;
+		right: 0;
+		left: auto;
+		background-color: rgba(0,0,0,0.6);
+		overflow-x: hidden;
+		transition: 0.5s;
+		padding-top: 60px;
+		color: white;
+		font-family: 'Courgette';
+		letter-spacing: 0.1em;
+		font-variant:small-caps;
+	}
+
+	.sidenav a {
+		padding: 8px 8px 8px 32px;
+		text-decoration: none;
+		font-size: 25px;
+		color: #818181;
+		display: block;
+		transition: 0.3s;
+	}
+
+	.sidenav a:hover {
+		color: #f1f1f1;
+	}
+
+	.sidenav .closebtn {
+		position: absolute;
+		top: 0;
+		left: 5px;
+		font-size: 36px;
+		margin-left: 0px;
+	}
+
+	@media screen and (max-height: 450px) {
+	  .sidenav {padding-top: 15px;}
+	  .sidenav a {font-size: 18px;}
+	}
+/*-|-*/

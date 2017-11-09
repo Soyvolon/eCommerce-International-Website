@@ -1,0 +1,377 @@
+<html>
+	<head>
+		<!--
+			All class tags that start with 'w3' are from the w3.css style sheet
+		-->
+	
+		<title></title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link href="w3.css" rel="stylesheet" type="text/css" />
+		<link href="main.css" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		
+		<style>
+			@import url('https://fonts.googleapis.com/css?family=Courgette');
+			@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+		</style>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script type="text/javascript">
+			// Scroll to specific values
+			function scrollto(point) {
+				// scrollTo is the same
+				window.scroll({
+				  top: point, 
+				  left: 0, 
+				  behavior: 'smooth' 
+				});
+			}
+			function scrollby(distance) {
+				// Scroll certain amounts from current position 
+				window.scrollBy({ 
+				  top: distance, // could be negative value
+				  left: 0, 
+				  behavior: 'smooth' 
+				});
+			}
+			function indoc(id) {
+				// Scroll to a certain element
+				document.querySelector(id).scrollIntoView({ 
+				  block: "start",
+				  inline: "nearest",
+				  behavior: 'smooth'
+				});
+			}
+			//Navagation bar functions
+			function openNav() {
+			    document.getElementById("sideNav").style.width = "15%";
+			    document.getElementById("galmenu").style.opacity = 0;
+			}
+
+			function closeNav() {
+			    document.getElementById("sideNav").style.width = "0%";
+			    document.getElementById("galmenu").style.opacity = 1;
+			}
+			
+			function openDoc(doc) {
+				window.location.href = doc;
+			}
+		</script>
+	</head>
+	<body style="background: black;">
+			<div class="headerbar">
+				<table class="headertable">
+					<tr>
+						<td onclick="openDoc('index.htm')">Home</td>
+						<td onclick="openDoc('facts.htm')" id="onpage">Info</td>
+						<td onclick="openDoc('locations.htm')">Locations</td>
+						<td onclick="openDoc('culture.htm')">Culture</td>
+						<td onclick="openDoc('travel.htm')">Travel</td>
+						<td onclick="openDoc('gallery.htm')">Gallery</td>
+						<td onclick="openDoc('faq.htm')">FAQ</td>
+						<td onclick="openDoc('research.htm')">References</td>
+					</tr>
+				</table>
+			</div>
+		<div id="altbody">
+			<h1><span id="bg-white">Kyoto, Japan</span></h1>
+			<h2>General Infomation</h2>
+			<ul>
+				<li>127 million people live in Japan</li>
+				<li>1.475 million people live in Kyoto</li>
+				<li>Time Zone: UTC+09:00</li>
+				<li>National Language: Japanese</li>
+			</ul>
+			<h2>Kyoto Climate</h2>
+			<h3>Winter</h3>
+			<ul>
+				<li><i>December to February</i>, is quite dry and sunny along the Pacific coast and the temperatures rarely drop below 0°C. The temperatures drop as you move north, with the Central and Northern regions experiencing snowfall. Southern Japan is relatively temperate and experiences a mild winter.</li>
+			</ul>
+			<h3>Spring</h3>
+			<ul>
+				<li><i>March to May</i>. Temperatures are warm but not too hot, plus there isn’t too much rain. The famous cherry blossoms are out during this time and there are plenty of festivals to enjoy.</li>
+			</ul>
+			<h3>Summer</h3>
+			<ul>
+				<li><i>June to August</i>. Starts in June and the country experiences a three to four-week rainy season during which the farmers plant their rice. It is hot and humid during this time and temperatures are often in the high 30’s.</li>
+			</ul>
+			<h3>Fall</h3>
+			<ul>
+				<li><i>September to November</i> and is characterised by light breezes and cooler temperatures of around 8-10oC. It’s during autumn that many exhibitions, music concerts and sports tournaments are held in Japan.</li>
+			</ul>
+			<h2>Japanese Pharses</h2>
+			<table>
+				<thead>
+					<tr>
+						<th>English</th>
+						<th>日本語 (Japanese)</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Welcome</td>
+						<td>ようこそ (yōkoso)</td>
+					<tr>
+					<tr>
+						<td>Hello (General Greeting)</td>
+						<td>今日は (konnichiwa)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">おっす (ossu) - <i>used between close male friends</i></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">もしもし (moshi moshi)</td>
+					</tr>
+					<tr>
+						<td>Good morning (Morning greeting)</td>
+						<td>お早うございます / おはようございます (ohayō gozaimasu)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">お早う / おはよう (ohayō)</td>
+					</tr>
+					<tr>
+						<td>Good afternoon (Afternoon greeting)</td>
+						<td>こんにちは [今日は] (konnichiwa)</td>
+					</tr>
+					<tr>
+						<td>Good evening (Evening greeting)</td>
+						<td>今晩は / こんばんは (konbanwa)</td>
+					</tr>
+					<tr>
+						<td>Good night</td>
+						<td>おやすみなさい (oyasumi nasai)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">おやすみ (oyasumi)</td>
+					</tr>
+					<tr>
+						<td>Goodbye (Parting phrases)	</td>
+						<td>さようなら (sayōnara)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">いって来ます (ittekimasu) - 'I'll be back' - <i>you are leaving</i></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">いってらっしゃい (itterasshai) - 'come back soon' - <i>you are staying</i></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">じゃあまたね (jā mata ne) - see you later</td>
+					</tr>
+					<tr>
+						<td>What's your name?</td>
+						<td>お名前はなんですか? (o-namae wa nan desu ka)</td>
+					</tr>
+					<tr>
+						<td>My name is ...</td>
+						<td>... だ (... da) (inf)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">...です (... desu) (frm)</td>
+					</tr>
+					<tr>
+						<td>Pleased to meet you</td>
+						<td>初めまして (hajimemashite)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">初めまして。どうぞ宜しく (hajimemashite. dōzo yoroshiku) <i>reply</i></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">お会いできて嬉しいです (oaidekite ureshii desu)</td>
+					</tr>
+					<tr>
+						<td>Bon appetit / Have a nice meal</td>
+						<td>どうぞめしあがれ (douzo meshiagare) = 'enjoy your meal' - said by the cook/chef</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">いただきます (itadakimasu) - said before a meal by those eating it</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">ご馳走さまでした (gochisōsama deshita) - said after a meal by those who have eaten it</td>
+					</tr>
+					<tr>
+						<td>I don't know</td>
+						<td>わからない (wakaranai) - inf</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">わかりません (wakarimasen) - frm</td>
+					</tr>
+					<tr>
+						<td>I understand</td>
+						<td>わかります (wakarimasu)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">わかる (wakaru) inf</td>
+					</tr>
+					<tr>
+						<td>I don't understand</td>
+						<td>わかりません (wakarimasen) - frm</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">わからない (wakaranai) - inf</td>
+					</tr>
+					<tr>
+						<td>Please speak more slowly</td>
+						<td>ゆっくり話してください (yukkuri hanashite kudasai)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">ゆっくり言ってください (yukkuri itte kudasai)</td>
+					</tr>
+					<tr>
+						<td>Please say that again</td>
+						<td>もう一度、言ってください (mō ichido, itte kudasai)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">もうひとつ言ってください (Mō hitotsu itte kudasai)</td>
+					</tr>
+					<tr>
+						<td>Do you speak English?</td>
+						<td>英語はできますか (Eigo wa dekimasu ka?)</td>
+					</tr>
+					<tr>
+						<td>Do you speak Japanese?</td>
+						<td>日本語を話しますか (Nihongo o hanashimasu ka?)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">日本語は話せますか (Nihongo wa hanasemasu ka?)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">日本語はできますか (Nihongo wa dekimasu ka?)</td>
+					</tr>
+					<tr>
+						<td>Yes, a little (reply to 'Do you speak ...?')</td>
+						<td>はい、話します (Hai, hanashimasu)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">はい、話せます (Hai, hanasemasu)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">はい、出来ます (Hai, dekimasu)</td>
+					</tr>
+					<tr>
+						<td>How do you say ... in Japanese?</td>
+						<td>... は日本語でなんと言いますか。(... wa nihongo de nanto īmasu ka?)</td>
+					</tr>
+					<tr>
+						<td>Excuse me</td>
+						<td>すみません! (sumimasen)</td>
+					</tr>
+					<tr>
+						<td>Sorry</td>
+						<td>ごめんなさい! (gomen nasai)</td>
+					</tr>
+					<tr>
+						<td>Please</td>
+						<td>ください (kudasai)</td>
+					</tr>
+					<tr>
+						<td>Thank you</td>
+						<td>どうも (dōmo)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">ありがとう (arigatō)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">ありがとうございます (arigatō gozaimasu)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">どうもありがとう (dōmo arigatō)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">どうもありがとうございます (dōmo arigatō gozaimasu)</td>
+					</tr>
+					<tr>
+						<td>Reply to thank you</td>
+						<td>どういたしまして (dō itashimashite)</td>
+					</tr>
+					<tr>
+						<td>Help!</td>
+						<td>助けて! (tasukete!)</td>
+					</tr>
+					<tr>
+						<td>Does anyone speak English?	</td>
+						<td>英語の話せる人はいませんか (Eigo no hanaseru hito wa imasen ka)</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td id="jpcont">誰か、英語が話せますか (dare ka, eigo ga hanasemasu ka?)</td>
+					</tr>
+					<tr>
+						<td>Sorry, I didn't understand that</td>
+						<td>すみません。分かりませんでした (sumimasen. wakarimasen deshita)</td>
+					</tr>
+					<tr>
+						<td>How do you pronounce that?</td>
+						<td>これはどんな風に発音しますか (kore wa donna fū ni hatsuon shimasu ka)</td>
+					</tr>
+					<tr>
+						<td>Do you have an English menu?</td>
+						<td>英語のメ二ューはありますか (eigo no menyu wa arimasu ka?)</td>
+					</tr>
+					<tr>
+						<td>My hovercraft is full of eels</td>
+						<td>私のホバークラフトは鰻でいっぱいです (Watashi no hobākurafuto wa unagi de ippai desu.)</td>
+					</tr>
+				</tbody>
+			</table>
+			<h2>Best Time to Visit Kyoto</h2>
+			<ul>
+				<li>The best times to visit Kyoto are October/November (fall) and March/April/May (spring).</li>
+				<li>You can visit Kyoto at any time of year because the weather is temperate.</li>
+				<li>Summer (June/July/August) in Kyoto is hot and humid.</li>
+				<li>Winter (December/January/Febuary) in Kyoto is cold.</li>
+				<li>The rainy season goes from mid-June to late July, but it does NOT rain every day and you can travel.</li>
+			</ul>
+			<h3>October/November Events</h3>
+			<ul>
+				<li><strong>22 October</strong>: Jidai Matsuri (Festival of the Ages): A parade of people dressed in period costumes marches from the Kyoto Gosho (Kyoto Imperial Palace) to Heian-jingu Shrine.</li>
+				<li><strong>22 October</strong>: Kurama-no-Himatsuri (Kurama Fire Festival): In the village of Kurama, a short train ride north of Kyoto, young men dressed in loincloths carry huge flaming torches through the streets. The festival starts at dusk and climaxes around 10:00pm.</li>
+				<li><strong>Autumn Colors</strong> – Fall Foliage Season: The stunning autumn colors in Kyoto continue throughout the month.</li>
+			</ul>
+			<h3>March/April/May</h3>
+			<ul>
+				<li><strong>Mid-March</strong>: Plum blossom viewing: Top spots to view the plums include Kitano-Tenmangu Shrine and the Kyoto Gosho (Imperial Palace Park).</li>
+				<li><strong>Cherry Blossom</strong> season begins from mid-March onwards.</li>
+				<li><strong>Early April</strong>: Hanami (cherry blossom viewing): Top spots to see the cherries include Maruyama-koen Park, the north end of the Kyoto Gosho (Imperial Palace Park), the banks of the Kamo-gawa River, Kyoto Botanical Gardens (Kyoto Shokubutsu-en), and Gion’s Shimbashi district in the evening.</li>
+				<li><strong>First week of May</strong>: Golden Week holiday: Most Japanese workers are on holiday. Many sightseeing spots are crowded and hotels are expensive at this time.</li>
+				<li><strong>3 May</strong>: Yabusame (horseback archery) at Shimogamo-jinja Shrine: From 1pm to 3:30pm, a horseback archery competition is held in the tree-lined arcade south of the shrine’s main hall. Don’t miss it!</li>
+				<li><strong>15 May</strong>: Aoi Matsuri: One of Kyoto’s biggest festivals, this festival involves a procession from the Kyoto Gosho (Kyoto Imperial Palace) to Shimogamo-jinja Shrine via Kamigamo-jinja Shrine. The procession leaves the palace at 10:00am, arrives at Shimogamo-jinja at 2pm and at Kamigamo-jinja at 3:30pm.</li>
+			</ul>
+			<h2>A little bit of history</h2>
+			<p>It is widely accepted that first human habitation in the Japanese archipelago can be traced back to prehistoric times. The Jōmon period, named after its "cord-marked" pottery, was followed by the Yayoi in the first millennium BC, when new technologies were introduced from continental Asia. During this period, in the first century AD, the first known written reference to Japan was recorded in the Chinese Book of Han. Between the fourth century and the ninth century, Japan's many kingdoms and tribes gradually came to be unified under a centralized government, nominally controlled by the Emperor. The imperial dynasty established at this time continues to reign over Japan to this day. In 794, a new imperial capital was established at Heian-kyō (modern Kyoto), marking the beginning of the Heian period, which lasted until 1185. The Heian period is considered a golden age of classical Japanese culture. Japanese religious life from this time and onwards was a mix of Buddhism, and native religious practices known as Shinto.</p>
+
+			<p>Over the following centuries the power of the Emperor and the imperial court gradually declined and passed to the military clans and their armies of samurai warriors. The Minamoto clan under Minamoto no Yoritomo emerged victorious from the Genpei War of 1180–85. After seizing power, Yoritomo set up his capital in Kamakura and took the title of shōgun. In 1274 and 1281, the Kamakura shogunate withstood two Mongol invasions, but in 1333 it was toppled by a rival claimant to the shogunate, ushering in the Muromachi period. During the Muromachi period regional warlords called daimyō grew in power at the expense of the shogun. Eventually, Japan descended into a period of civil war. Over the course of the late sixteenth century, Japan was reunified under the leadership of the daimyō Oda Nobunaga and his successor Toyotomi Hideyoshi. After Hideyoshi's death in 1598, Tokugawa Ieyasu came to power and was appointed shogun by the Emperor. The Tokugawa shogunate, which governed from Edo (modern Tokyo), presided over a prosperous and peaceful era known as the Edo period (1600–1868). The Tokugawa shogunate imposed a strict class system on Japanese society and cut off almost all contact with the outside world.</p>
+
+			<p>The American Perry Expedition in 1853–54 ended Japan's seclusion; this in turn contributed to the fall of the shogunate and the return of power to the Emperor in 1868. The new national leadership of the following Meiji period transformed their isolated, underdeveloped island country into an empire that closely followed Western models and became a world power. Although democracy developed and modern civilian culture prospered during the Taishō period (1912–26), Japan's powerful military had great autonomy and overruled Japan's civilian leaders in the 1920s and 1930s. The military invaded Manchuria in 1931, and from 1937 the conflict escalated into a prolonged war with China. Japan's attack on Pearl Harbor in December 1941 led to war with the United States and its allies. Japan's forces soon became overextended, but the military held out in spite of Allied air attacks that inflicted severe damage on population centers. Japan's unconditional surrender was announced by Emperor Hirohito on 15 August 1945 following the atomic bombings of Hiroshima and Nagasaki and the Soviet invasion of Manchuria.</p>
+
+			<p>The Allies occupied Japan until 1952, during which a new constitution was enacted in 1947 that transformed Japan into a constitutional monarchy. After 1955, Japan enjoyed very high economic growth, and became a world economic powerhouse. Since the 1990s, economic stagnation has been a major issue. An earthquake and tsunami in 2011 caused massive economic dislocations and a serious nuclear power disaster.</p>
+		</div>
+	</body>
+</html>
