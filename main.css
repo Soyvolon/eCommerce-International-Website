@@ -52,6 +52,7 @@ a {
 		width: 12%;
 		font-variant: small-caps;
 		letter-spacing: 0.1em;
+		transition: background-color .35s ease-in-out, color .35s ease-in-out;
 	}
 	.headertable td:hover {
 		background-color: pink;
@@ -126,7 +127,7 @@ a {
 		background-color: pink;
 	}
 /*-|-*/
-/* Facts Section */
+/* Alt Body Section */
 	#altbody {
 		font-family: 'Open Sans', sans-serif;
 		color: white;
@@ -136,9 +137,16 @@ a {
 		padding: 30px;
 		border: 4px solid pink;
 		border-radius: 20px;
+		/* Note, when using:
+				background: white url(design/banner.jpg) no-repeat scroll cover;
+		The background did not show up. Therefor, I am using
+		multiple background tags wich does allow the background
+		to appear */
 		background: white url(design/banner.jpg);
+		background-size:cover;
+		/* -- */
 		color: black;
-		font-family: Courgette
+		font-family: Courgette;
 	}
 	#altbody h2 {
 		padding: 20px;
@@ -190,6 +198,22 @@ a {
 	#altbody p {
 		padding: 10px;
 		margin: 10px 50px 10px 150px;
+	}
+	#altbody a {
+		padding: 10px;
+		background-color: grey;
+		color: pink;
+		float: right;
+		margin: -.75% 0px 0px 100px;
+		display: inline-block;
+		transition: color .5s ease-in-out, background .5s ease-in-out;
+		border: 2px solid black;
+		border-radius: 20px;
+	}
+	#altbody a:hover {
+		text-decoration: none;
+		background: white;
+		color: black;
 	}
 	#jpcont {
 		background-color: pink!important;
